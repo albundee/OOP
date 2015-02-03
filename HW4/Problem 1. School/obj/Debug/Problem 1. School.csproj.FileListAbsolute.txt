@@ -1,0 +1,11 @@
+D:\OOP\4\Problem 1. School\bin\Debug\Problem_1.School.exe.config
+D:\OOP\4\Problem 1. School\bin\Debug\Problem_1.School.exe
+D:\OOP\4\Problem 1. School\bin\Debug\Problem_1.School.pdb
+D:\OOP\4\Problem 1. School\obj\Debug\Problem_1.School.exe
+D:\OOP\4\Problem 1. School\obj\Debug\Problem_1.School.pdb
+D:\GitHub\OOP\HW4\HW\Problem 1. School\bin\Debug\Problem_1.School.exe.config
+D:\GitHub\OOP\HW4\HW\Problem 1. School\obj\Debug\Problem_1.School.exe
+D:\GitHub\OOP\HW4\HW\Problem 1. School\obj\Debug\Problem_1.School.pdb
+D:\GitHub\OOP\HW4\Problem 1. School\bin\Debug\Problem_1.School.exe.config
+D:\GitHub\OOP\HW4\Problem 1. School\obj\Debug\Problem_1.School.exe
+D:\GitHub\OOP\HW4\Problem 1. School\obj\Debug\Problem_1.School.pdb

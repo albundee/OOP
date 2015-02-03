@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="School.Class" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQgACAAI=</HashCode>
+      <FileName>Class\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School.Disciplines" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAASAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class\Disciplines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School.People" Collapsed="true">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>People\People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School.Student" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>People\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School.Teacher" Collapsed="true">
+    <Position X="9" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>People\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School.School" Collapsed="true">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="School.School.program" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>School.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>School.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

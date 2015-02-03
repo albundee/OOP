@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Point3D", "Problem 1. Point3D\Problem 1. Point3D.csproj", "{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Distance Calculator", "Problem 2. Distance Calculator\Problem 2. Distance Calculator.csproj", "{9AFF4325-9EEC-446F-80EF-470479EE92B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 6. Namespaces", "Problem 6. Namespaces\Problem 6. Namespaces.csproj", "{6423EC29-7DE2-4264-A07F-423F02CC2BC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1A1E3CB8-562D-4F09-8EDE-9765BE9D781D}.Release|x86.ActiveCfg = Release|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9AFF4325-9EEC-446F-80EF-470479EE92B4}.Release|x86.ActiveCfg = Release|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6423EC29-7DE2-4264-A07F-423F02CC2BC1}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

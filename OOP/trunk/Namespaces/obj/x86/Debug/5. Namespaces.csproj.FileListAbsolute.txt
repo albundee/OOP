@@ -1,0 +1,8 @@
+D:\OOP\2\Namespaces\bin\Debug\Namespaces.exe
+D:\OOP\2\Namespaces\bin\Debug\Namespaces.pdb
+D:\OOP\2\Namespaces\obj\x86\Debug\SoftUni.UI.ProfessorAdminForm.resources
+D:\OOP\2\Namespaces\obj\x86\Debug\SoftUni.UI.StudentAdminForm.resources
+D:\OOP\2\Namespaces\obj\x86\Debug\5. Namespaces.csproj.GenerateResource.Cache
+D:\OOP\2\Namespaces\obj\x86\Debug\Namespaces.exe
+D:\OOP\2\Namespaces\obj\x86\Debug\Namespaces.pdb
+D:\OOP\2\Namespaces\obj\x86\Debug\5. Namespaces.csprojResolveAssemblyReference.cache
