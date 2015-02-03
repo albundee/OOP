@@ -1,5 +1,0 @@
-D:\OOP\2\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.exe.config
-D:\OOP\2\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.exe
-D:\OOP\2\Problem 2. Distance Calculator\bin\Debug\Problem_2.Distance_Calculator.pdb
-D:\OOP\2\Problem 2. Distance Calculator\obj\Debug\Problem_2.Distance_Calculator.exe
-D:\OOP\2\Problem 2. Distance Calculator\obj\Debug\Problem_2.Distance_Calculator.pdb

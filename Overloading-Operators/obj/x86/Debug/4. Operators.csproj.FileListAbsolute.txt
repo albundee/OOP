@@ -1,4 +1,0 @@
-D:\OOP\2\Overloading-Operators\bin\Debug\Operators.exe
-D:\OOP\2\Overloading-Operators\bin\Debug\Operators.pdb
-D:\OOP\2\Overloading-Operators\obj\x86\Debug\Operators.exe
-D:\OOP\2\Overloading-Operators\obj\x86\Debug\Operators.pdb

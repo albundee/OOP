@@ -1,4 +1,0 @@
-D:\OOP\2\Indexers\bin\Debug\Indexers.exe
-D:\OOP\2\Indexers\bin\Debug\Indexers.pdb
-D:\OOP\2\Indexers\obj\x86\Debug\Indexers.exe
-D:\OOP\2\Indexers\obj\x86\Debug\Indexers.pdb

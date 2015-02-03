@@ -1,6 +1,0 @@
-D:\OOP\2\Problem 6. Namespaces\bin\Debug\Problem_6.Namespaces.exe.config
-D:\OOP\2\Problem 6. Namespaces\obj\Debug\Problem 6. Namespaces.csprojResolveAssemblyReference.cache
-D:\OOP\2\Problem 6. Namespaces\bin\Debug\Problem_6.Namespaces.exe
-D:\OOP\2\Problem 6. Namespaces\bin\Debug\Problem_6.Namespaces.pdb
-D:\OOP\2\Problem 6. Namespaces\obj\Debug\Problem_6.Namespaces.exe
-D:\OOP\2\Problem 6. Namespaces\obj\Debug\Problem_6.Namespaces.pdb
