@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. StringBuilder Extensions", "Problem 1. StringBuilder Extensions\Problem 1. StringBuilder Extensions.csproj", "{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 2. Custom LINQ Extension Methods", "Problem 2. Custom LINQ Extension Methods\Problem 2. Custom LINQ Extension Methods.csproj", "{854D771B-A372-4E18-AD96-3B265C562F8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 3. Class Student", "Problem 3. Class Student\Problem 3. Class Student.csproj", "{13AECF22-03DC-45A9-AB67-E233310B4C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{0EF26A41-1136-4654-AEC3-B5DDCCA2F431}.Release|x86.ActiveCfg = Release|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{854D771B-A372-4E18-AD96-3B265C562F8E}.Release|x86.ActiveCfg = Release|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{13AECF22-03DC-45A9-AB67-E233310B4C7D}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

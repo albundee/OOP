@@ -1,12 +1,13 @@
-﻿using System;
+﻿
+
+namespace School
+{
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace School
-{
-    class program
+    class Program
     {
             public static void Main()
             {
@@ -18,7 +19,7 @@ namespace School
                 Student misho = new Student("Misho", 15, null);
                 List<Student> liststudents = new List<Student>()
                 {
-                    pesho,misho
+                    pesho, misho
                 };
                 Console.WriteLine(pesho.Name);
                 Console.WriteLine(pesho.Classnumber);
@@ -34,18 +35,18 @@ namespace School
                 Console.WriteLine(people.Name);
                 List<Disciplines> listdisciplines = new List<Disciplines>()
                 {
-                    math,phisics
+                    math, phisics
                 };
-                Teacher II = new Teacher("Ivan Ivanov", listdisciplines, "teacherdetails");
-                Teacher DD = new Teacher("Dim Dimitrov", listdisciplines, null);
+                Teacher ii = new Teacher("Ivan Ivanov", listdisciplines, "teacherdetails");
+                Teacher dd = new Teacher("Dim Dimitrov", listdisciplines, null);
                 List<Teacher> listteachers = new List<Teacher>()
                 {
-                    II,DD
+                    ii, dd
                 };
-                Console.WriteLine(II.Name);
-                Console.WriteLine(II.Disciplines);
-                Console.WriteLine(II.details);
-                Console.WriteLine(DD.Name);
+                Console.WriteLine(ii.Name);
+                Console.WriteLine(ii.Disciplines);
+                Console.WriteLine(ii.details);
+                Console.WriteLine(dd.Name);
                 Class aclass = new Class("A", listteachers, liststudents, "classnotes");
                 Console.WriteLine(aclass.Identifier);
                 Console.WriteLine(listteachers);
