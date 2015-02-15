@@ -15,7 +15,7 @@
             {
                 new Student{ FirstName = "Ivan", LastName = "Ivanov", Age = 24, FacultyNumber = 111114, Phone = "11234567", Email = "iivanov@mail.bg",Marks = new List<int>(){2,2,3,4,4,5}, GroupNumber = 222 },
                 new Student{FirstName="Pesho",LastName="Peshev",Age=35,FacultyNumber=222222,Phone="+359 21567890",Email="ppeshev@abv.bg",Marks = new List<int>(){6,6,5,3,4},GroupNumber=2},
-                new Student{FirstName="George",LastName="Georgiev",Age=45,FacultyNumber=333314,Phone="02/8456789887",Email="ggerogiev@yahoo.com.bg",Marks = new List<int>(){5,3,3,3,4,4,6},GroupNumber=2},
+                new Student{FirstName="George",LastName="Georgiev",Age=45,FacultyNumber=333314,Phone="02/8456789887",Email="ggerogiev@yahoo.com.bg",Marks = new List<int>(){5,3,3,3,4,2,4,6},GroupNumber=2},
                
             };
             var StudentsbyGroup =
@@ -85,7 +85,7 @@
             }
             Console.WriteLine();
             Console.WriteLine("Weak Students: ");
-            var WeakStudents = students.FindAll(st => st.Marks.Contains(2));
+            var WeakStudents = students.FindAll(st => st.Marks.Count(std => std.Equals(2)) == 2);
             int y = 0;
             foreach (var items in WeakStudents)
             {
